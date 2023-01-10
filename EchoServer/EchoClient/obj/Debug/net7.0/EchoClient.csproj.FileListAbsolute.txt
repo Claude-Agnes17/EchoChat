@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\EchoServer\EchoClient\bin\Debug\net7.0\EchoClient.exe
+C:\Users\USER\source\repos\EchoServer\EchoClient\bin\Debug\net7.0\EchoClient.deps.json
+C:\Users\USER\source\repos\EchoServer\EchoClient\bin\Debug\net7.0\EchoClient.runtimeconfig.json
+C:\Users\USER\source\repos\EchoServer\EchoClient\bin\Debug\net7.0\EchoClient.dll
+C:\Users\USER\source\repos\EchoServer\EchoClient\bin\Debug\net7.0\EchoClient.pdb
+C:\Users\USER\source\repos\EchoServer\EchoClient\obj\Debug\net7.0\EchoClient.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\EchoServer\EchoClient\obj\Debug\net7.0\EchoClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\EchoServer\EchoClient\obj\Debug\net7.0\EchoClient.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\EchoServer\EchoClient\obj\Debug\net7.0\EchoClient.AssemblyInfo.cs
+C:\Users\USER\source\repos\EchoServer\EchoClient\obj\Debug\net7.0\EchoClient.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EchoServer\EchoClient\obj\Debug\net7.0\EchoClient.dll
+C:\Users\USER\source\repos\EchoServer\EchoClient\obj\Debug\net7.0\refint\EchoClient.dll
+C:\Users\USER\source\repos\EchoServer\EchoClient\obj\Debug\net7.0\EchoClient.pdb
+C:\Users\USER\source\repos\EchoServer\EchoClient\obj\Debug\net7.0\EchoClient.genruntimeconfig.cache
+C:\Users\USER\source\repos\EchoServer\EchoClient\obj\Debug\net7.0\ref\EchoClient.dll
